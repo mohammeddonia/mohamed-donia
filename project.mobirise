@@ -773,8 +773,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/background4.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background4-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background4-1-800x534.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -793,6 +793,32 @@
                 "customStyle1": "display-7",
                 "caption": "<a href=\"page3.html#content9-1p\">Inventory Management Policy - Model Optimisation</a>",
                 "active": true
+              },
+              {
+                "tags": "Done",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/fig-1031x504-800x391.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fig-1031x504-800x391-800x391.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Bayesian Data Analysis",
+                "active": false
+              },
+              {
+                "tags": "Done",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20161020-wa0001-2-851x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20161020-wa0001-2-851x1280-709x344.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Shakespeare's Play Analysis",
+                "active": false
               }
             ]
           }
